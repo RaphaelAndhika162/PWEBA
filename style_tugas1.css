@@ -3,7 +3,10 @@
     width: 96px;
     height: 96px;
     border-radius: 50%;
+    object-fit: cover;
+    display: inline-block;
 }
+
 
 .bg {
     background-image: url("https://ugc.production.linktr.ee/wJFXizViSKCk9bMbsZ8A_x8tI1fPuqaX4Yep2?io=true&size=background-profile-v1_0");
